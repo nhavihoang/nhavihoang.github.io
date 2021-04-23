@@ -33,3 +33,10 @@ li a {
     text-align: center;
     border: 5px solid lightblue;
 }
+div {
+    margin: 25px;
+}
+
+body {
+    background: url(../images/background.jpg) no-repeat center center fixed;
+}
