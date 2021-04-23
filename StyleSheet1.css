@@ -9,10 +9,14 @@ ul {
     margin: 0;
     padding: 0;
 }
-.purpose
-{
+li a{
+    background-color: white;
+    color: cornflowerblue;
+    text-transform: uppercase;
+    text-decoration: none;
+    margin: 5px;
+    padding: 1em 1.5em;
+    display: block;
+    border-radius: 20px;
+}
 
-}
-html{
-    background: url(../images/background.jpg) no-repeat center center fixed;
-}
