@@ -21,3 +21,15 @@ li a {
     display: block;
     border-radius: 20px;
 }
+#project {
+    float: left;
+    display: block;
+    background-color: lightblue;
+    width: 450px;
+    height: 450px;
+    padding: 40px;
+    color: black;
+    margin: 0 auto;
+    text-align: center;
+    border: 5px solid lightblue;
+}

@@ -36,7 +36,13 @@ text-align: center;*/
     color: black;
     margin: 0 auto;
     text-align: center;
+    border: 5px solid lightblue;
 }
-
+body{
+    background: url(../images/background.jpg) no-repeat center center fixed;
+}
+div{
+    margin: 25px;
+}
 
 
