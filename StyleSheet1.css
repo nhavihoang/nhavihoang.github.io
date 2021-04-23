@@ -19,4 +19,22 @@ li a{
     display: block;
     border-radius: 20px;
 }
+/*background-color: white;
+width: 450px;
+height: 450px;
+padding: 40px;
+color: black;
+margin: 0 auto;
+text-align: center;*/
+#information {
+    float: left;
+    display: block;
+    background-color: white;
+    width: 450px;
+    height: 450px;
+    padding: 40px;
+    color: black;
+    margin: 0 auto;
+    text-align: center;
+}
 
