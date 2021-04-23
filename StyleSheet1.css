@@ -1,27 +1,6 @@
-﻿
-ul {
-    list-style-type: none;
-    margin: 0;
-    padding: 0;
-}
-nav {
+﻿nav {
     background-color: lightcyan;
     float: left;
     height: 100vh;
     padding: 15px;
-}
-html{
-    background: url(../images/background.jpg) no-repeat center center fixed;
-}
-.purpose
-{
-    width: 450px;
-    height: 450px;
-    background-color: floralwhite;
-    padding: 40px;
-    color: black;
-    margin: 0 auto;
-    margin-top: 100px;
-    text-align: center;
-
 }
