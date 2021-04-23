@@ -1,3 +1,21 @@
 ﻿body
 {
+
+
+
 }
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+nav {
+    background-color: lightcyan;
+    float: left;
+    height: 100vh;
+    padding: 15px;
+}
+html{
+    background: url(../images/background.jpg) no-repeat center center fixed;
+}
+
